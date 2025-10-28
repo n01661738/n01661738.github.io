@@ -1,0 +1,117 @@
+
+/* Controls the background of the webpage using the fading method used in Halloween Store Assignment (CSS). */
+
+body{
+
+    background: linear-gradient(45deg, yellow 20%, aqua 50%, black 100%);
+
+}
+
+/* Controls all paragrpagh text position, size of font, style of font,and text spacing (CSS). */
+p{
+    max-width: 500px;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    word-spacing: 5px;
+    margin-bottom: 40px;
+    margin-left: 510px;
+
+}
+
+/* Header 1 section controls position, and size of font (CSS). */
+h1{
+    font-style: times;
+    text-align: center;
+    font-size: 75px;
+
+}
+
+/* Header 2 section controls position, and size of font (CSS). */
+h2{
+font-style: times;
+text-align: center;
+font-size: 50px;
+margin-bottom: 50px;
+}
+
+/* Header 3 section controls position, and size of font (CSS). */
+h3{
+font-style: times;
+text-align: center;
+font-size: 40px;
+margin-bottom: 40px;
+
+}
+
+/* Header 4 section controls position, and size of font (CSS). */
+h4{
+    font-style: times;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+/* Header 5 section controls position, and size of font (CSS). */
+
+
+h5{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+
+}
+
+/* Header 6 controls the text placement, and fontsize (CSS). */
+h6{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+
+}
+
+
+/*Controls the position, and states a block for each image to be placed properly (CSS). */
+img{
+
+    display: block center;
+    margin-left: 610px;
+    margin-bottom: 15px;
+}
+
+/*Controls the color, placement and faded colors on the footer, also controls the copyright color and placement for the footer and the navigation commands(CSS). */
+
+footer{
+    background: linear-gradient(45deg, yellow 7%, aqua 60%, black 100%);
+    text-align: center;
+    color: grey;
+}
+
+
+nav{
+
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* Color, decoration, and position of the hyperlink itself (CSS). */
+nav a{
+
+    color: navy;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 18px;
+
+}
+     /* Style, color for the hover feature on the working hyperlink (CSS). */
+nav a:hover{
+    text-decoration: wavy;
+    color:blue;
+    background-color: whitesmoke;
+    font-weight:bold;
+    margin-bottom: 50px;
+
+
+}
+
